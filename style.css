@@ -1810,7 +1810,7 @@ body {
 
 .hoverEffectMafuz{
   overflow: hidden;
-  height: 350px;
+  height: 400px;
   object-fit: cover !important
 }
 .hoverEffectMafuz img{
