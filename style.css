@@ -1810,7 +1810,7 @@ body {
 
 .hoverEffectMafuz{
   overflow: hidden;
-  height: 500px;
+  height: 350px;
   object-fit: cover !important
 }
 .hoverEffectMafuz img{
@@ -1860,6 +1860,6 @@ body {
 }
 @media (min-width: 1000px) {
   .smallText{
-    font-size: 45px;
+    font-size: 40px;
   }
 }
